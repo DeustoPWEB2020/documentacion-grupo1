@@ -1,8 +1,8 @@
-# NOMBREDELSITIO
+# Separación de Poderes
 
-Documentación para el proyecto de sitio web NOMBREDELSITIO.
+Documentación para el proyecto de sitio web Separación de Poderes.
 
-Aquí deberíais incluir una introducción a vuestro proyecto, explicación de por qué/para qué creáis el sitio web, etc.
+El objetivo de este sitio web consiste en exponer la vinculación entre la judicatura y el poder político. A día de hoy la ciudadanía tiene una percepción negativa acerca de la Justicia, ya que se relaciona directamente con su no independencia política. Esto se debe a que los hechos políticos siempre repercuten y tienen consecuencias en el Poder Judicial.
 
 Estructura del repositorio:
 
@@ -14,4 +14,4 @@ Estructura del repositorio:
 
 ---
 
-Elaborado por [Nombre Apellido](http://USUARIO.github.io), [Nombre2 Apellido2](http://USUARIO2.github.io)...
+Elaborado por [Erika Martín](http://erika-martin.github.io), [Eneko Arregi](http://enekoarregi.github.io), [Saul Iraizoz](http://sauliraizoz.github.io), [Manex Agirre](http://manexagirre.github.io)
