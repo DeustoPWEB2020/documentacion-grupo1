@@ -6,5 +6,5 @@ en esta misma carpeta y enlazadlo en este documento, así:
 
 ![Diagrama de flujo](DIAGRAMA-DE-FLUJO.png)
 -->
-![Diagrama de flujo](DIAGRAMA-DE-FLUJO.png)
+![Diagrama de flujo](DIAGRAMA-DE-FLUJO.jpg)
 
