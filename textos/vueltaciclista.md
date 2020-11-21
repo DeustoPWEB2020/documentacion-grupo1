@@ -24,6 +24,6 @@ Para celebrar la acogida de La Vuelta, el municipio creó una **campaña en rede
 
 Los participantes utilizaron un selfie con la etiqueta de **#IrunEstáDeVuelta** o **#IrunBueltanDa** para formar parte de la rifa, que admitió imágenes entre el 13 y el 17 de octubre. El lunes 19 se conocerá al ganador de dicho premio. 
 
-![La ciudad guipuzcoana sufrirá restricciones de tráfico. EUROPA PRESS]( https://img2.rtve.es/imagenes/vuelta-2020-vuelta-pule-irun-ultimos-detalles-antes-salida/1603047039732.jpg)
+![La ciudad guipuzcoana sufrirá restricciones de tráfico. EUROPA PRESS](https://img2.rtve.es/imagenes/vuelta-2020-vuelta-pule-irun-ultimos-detalles-antes-salida/1603047039732.jpg)
 
 La ciudad guipuzcoana sufrirá restricciones de tráfico. EUROPA PRESS.
