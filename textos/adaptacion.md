@@ -58,4 +58,4 @@ Los textos que hemos adaptado son los siguientes:
 
 - [El mundo en vilo](https://github.com/DeustoPWEB2020/documentacion-grupo1/blob/main/textos/editorial.md)
 
-- 
+- [Seis meses y un ‘mutis’](https://github.com/DeustoPWEB2020/documentacion-grupo1/blob/main/textos/Seismeses.md)
