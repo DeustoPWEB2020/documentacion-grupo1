@@ -40,3 +40,6 @@ La población estadounidense representa el 5% de la población mundial; la decis
 
 ## CUARTO
 
+Seis meses y un ‘mutis’
+
+La situación sanitaria es extremadamente grave y ya nadie, salvo los terraplanistas de Bilbao, tienen dudas sobre ello. La presión hospitalaria y las peticiones por parte de la mayoría de los presidentes autonómicos -entre ellos el lehedakari Iñigo Urkullu- forzó la maquinaria para que el Gobierno central aprobase de nuevo el estado de alarma con una amplia mayoría. Por delante, seis meses de posibles y probables medidas excepcionales que chocan de pleno con las libertades y los derechos de los individuos. La medida se aprobó en el Congreso sin la bronca y el barullo que se vivieron en las sesiones plenarias de la pasada primavera, pero la ausencia en el hemiciclo del presidente del Gobierno sienta un mal precedente para los meses venideros. Las medidas excepcionales tienen que tener comportamientos excepcionales por parte de los máximos dirigentes políticos. La ciudadanía necesita explicaciones a una medida que, con perspectiva histórica, evidenciará una coyuntura social de una gravedad casi extrema. En esta carrera de fondo, Sánchez y su Gobierno progresista no pueden permitirse desfallecer. 
