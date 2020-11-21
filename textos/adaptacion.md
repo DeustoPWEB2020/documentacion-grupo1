@@ -20,7 +20,7 @@ Estos puntos dejaron claro la necesidad de poner el foco en realizar un **buen t
 A continuación, decidimos prestar atención a la metodología que sigue Wallace a la hora de llevar a cabo la redacción multinivel. 
 
 -	Comenzar creando los encabezados/secciones.
--	Anotar los puntos menores de cada sección, **ordenándolos apropiadamente. **
+-	Anotar los puntos menores de cada sección, **ordenándolos apropiadamente.**
 -	Poner los enlaces pertinentes junto a su punto correspondiente.
 -	Trabajar a través del artículo para convertir cada punto menor en un párrafo.
 -	**En negrita los puntos menores.**
