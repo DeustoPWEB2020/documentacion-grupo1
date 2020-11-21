@@ -1,6 +1,7 @@
 ## La Casa-Torre de Muntsaratz logra un valor histórico
 
 •	El municipio vizcaíno ha celebrado el 33 aniversario de la Casa Torre de Muntsaratz, edificio histórico de la provincia.
+
 •	El edifico cuenta con una galería de columnas del siglo XVI.
 
 Desde el parking situado delante del frontón de **San Trokaz** (en el municipio de Abadiño) los habitantes del ayuntamiento de la localidad presenciaron la ceremonia que el ayuntamiento organizó para celebrar el trigésimo tercer aniversario de la fundación de la **Casa Torre de Muntsaratz**. 
