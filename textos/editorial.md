@@ -3,6 +3,7 @@
 ## A escasos días de determinarse el rumbo que tomará la flota mundial: el naufragio del presidente que ha tirado por la borda todo lo logrado desde la última gran guerra 
 
 ![AP/Jesco Denzel/German Federal Government](https://ichef.bbci.co.uk/news/976/cpsprodpb/143BB/production/_101957828_047346410.jpg)
+
 Los principales líderes de las potencias mundiales frente al presidente de EE. UU. Donald Trump en la Cumbre de líderes del G7 en Canadá en junio del 2018. **AP/Jesco Denzel/German Federal Government**
 
 A pocos días de las elecciones presidenciales de Estados Unidos, **Joe Biden** se marca como el posible futuro presidente, pero no hay que dar nada por sentado. 
