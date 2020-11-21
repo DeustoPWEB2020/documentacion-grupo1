@@ -49,3 +49,13 @@ Otras mejoras que se pueden llevar a cabo son:
 -	Usar con moderación las mayúsculas, la negrita, la cursiva y el subrayado.
 -	Recurrir a las listas y tablas para aligerar los textos.
 -	Vigilar dónde y cómo ubicar las palabras clave. 
+
+Los textos que hemos adaptado son los siguientes:
+
+- [Los problemas que dejará la vuelta ciclista en Irún](https://github.com/DeustoPWEB2020/documentacion-grupo1/blob/main/textos/vueltaciclista.md)
+
+- [La Casa-Torre de Muntsaratz logra un valor histórico](https://github.com/DeustoPWEB2020/documentacion-grupo1/blob/main/textos/cultura.md)
+
+- [El mundo en vilo](https://github.com/DeustoPWEB2020/documentacion-grupo1/blob/main/textos/editorial.md)
+
+- 
