@@ -1,8 +1,8 @@
 # Adaptación de textos de prensa a la web
 
-##Cómo crear los mejores textos adaptados
+## Cómo crear los mejores textos adaptados
 
-#Aquí se explica cómo hemos creado nuestros textos. 
+# Aquí se explica cómo hemos creado nuestros textos. 
 
 A la hora de **adaptar nuestros textos al formato web**, hemos comenzado teniendo en cuenta los diferentes niveles de interés que muestra cada uno de los usuarios. Para ello, hemos observado la clasificación de **Wallace** (1999):
 
