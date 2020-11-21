@@ -20,7 +20,9 @@ Según indica el Ayuntamiento de Irun **se verá influido el tráfico** en los s
  
 Los **autobuses** urbanos, interurbanos y discrecionales sufrirán cambios para adaptarse a las restricciones. 
 
-Para celebrar la acogida de La Vuelta, el municipio creó una **campaña en redes sociales** a través de la cual los ciudadanos podían entrar en el sorteo de dos entradas para observar la salida desde Ficoba. Los participantes utilizaron un selfie con la etiqueta de **#IrunEstáDeVuelta** o **#IrunBueltanDa** para formar parte de la rifa, que admitió imágenes entre el 13 y el 17 de octubre. El lunes 19 se conocerá al ganador de dicho premio. 
+Para celebrar la acogida de La Vuelta, el municipio creó una **campaña en redes sociales** a través de la cual los ciudadanos podían entrar en el sorteo de dos entradas para observar la salida desde Ficoba. 
+
+Los participantes utilizaron un selfie con la etiqueta de **#IrunEstáDeVuelta** o **#IrunBueltanDa** para formar parte de la rifa, que admitió imágenes entre el 13 y el 17 de octubre. El lunes 19 se conocerá al ganador de dicho premio. 
 
 ![La ciudad guipuzcoana sufrirá restricciones de tráfico. EUROPA PRESS]( https://img2.rtve.es/imagenes/vuelta-2020-vuelta-pule-irun-ultimos-detalles-antes-salida/1603047039732.jpg)
 
