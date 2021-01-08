@@ -1,6 +1,6 @@
-# ***El mundo en vilo***
+# El mundo en vilo
 
-## A escasos días de determinarse el rumbo que tomará la flota mundial: el naufragio del presidente que ha tirado por la borda todo lo logrado desde la última gran guerra 
+**A escasos días de determinarse el rumbo que tomará la flota mundial: el naufragio del presidente que ha tirado por la borda todo lo logrado desde la última gran guerra**
 
 ![AP/Jesco Denzel/German Federal Government](https://ichef.bbci.co.uk/news/976/cpsprodpb/143BB/production/_101957828_047346410.jpg)
 

@@ -1,6 +1,6 @@
 # ESTOS SON NUESTROS TEXTOS BASE
 
-## PRIMERO
+**PRIMERO**
 
 LA VUELTA CICLISTA A ESPAÑA DEJARÁ CORTES EN IRUN
 
@@ -12,7 +12,7 @@ Estos cortes de carretera afectarán en gran medida a la ciudad fronteriza, que 
 
 Para celebrar la acogida de La Vuelta, el municipio creó una campaña en redes sociales a través de la cual los ciudadanos podían entrar en el sorteo de dos entradas para observar la salida desde Ficoba. Los participantes utilizaron un selfie con la etiqueta de #IrunEstáDeVuelta o #IrunBueltanDa para formar parte de la rifa, que admitió imágenes entre el 13 y el 17 de octubre. El lunes 19 se conocerá al ganador de dicho premio. 
 
-## SEGUNDO
+**SEGUNDO**
 
 LA CASA-TORRE DE MUNTSARATZ, REFLEJO DE LA TRADICIÓN VASCA
 
@@ -26,7 +26,7 @@ La Casa Torre de Muntsaratz, que en un principio fue concebida como torre fuerte
 
 El alcalde de la localidad de Abadiño, José Luis Navarro, destacó que el edificio situado en la orilla izquierda del río Zumelegui y que perteneció a los Muntsaratz, una de las familias más relevantes de la historia vizcaína, refleja el aprecio y la importancia de la tradición y cultura vasca en el municipio vizcaíno. Además, el ayuntamiento habilitó una plataforma para que todo aquel que lo desee pudiera sacarse una foto junto al escudo de armas de los Muntsaratz, situado sobre la puerta de entrada a la torre.
 
-## TERCERO
+**TERCERO**
 
 El mundo en vilo
 
@@ -38,7 +38,7 @@ Estos datos no son casualidad. La pésima gestión de la administración Trump e
 
 La población estadounidense representa el 5% de la población mundial; la decisión de ese 5% influye en el 95% restante y por tanto determina el rumbo de la humanidad. En 2016, ese 5% se decantó por hacer “América grande otra vez” a costa de empequeñecer al resto del mundo. Cuatro años más tarde esperemos que los estadounidenses se hayan dado cuenta de que América solo será grande otra vez si respeta y quiere a todos sus ciudadanos como iguales y al resto de países como hermanos.
 
-## CUARTO
+**CUARTO**
 
 Seis meses y un ‘mutis’
 

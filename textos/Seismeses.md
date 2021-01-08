@@ -1,4 +1,4 @@
-# ***Seis meses y un ‘mutis’***
+# Seis meses y un ‘mutis’
 
 La situación sanitaria es extremadamente grave y ya nadie, salvo los terraplanistas de Bilbao, tienen dudas sobre ello. La **presión hospitalaria y las peticiones por parte de la mayoría de los presidentes autonómicos** -entre ellos el lehendakari Iñigo Urkullu- forzó la maquinaria para que el Gobierno central aprobase de nuevo el estado de alarma con una amplia mayoría. 
 
