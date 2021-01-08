@@ -1,2 +1,2 @@
 # Mapa del sitio
-![Site Map](SEPARACIONDEPODERES.jpg)
+![Mapa del Sitio](/IMG/mapadelsitio.png)
